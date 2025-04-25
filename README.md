@@ -1,6 +1,6 @@
 # BMI Calculator 💪
 
-![ImagePres](C:\Users\a941304\FlutterBeginner\GoogleColdelab\UdemyApp\bmi-calculator-flutter-master\assets\images\BMI CALC MainPage.png)
+![ImagePres](assets/images/BMI%20CALC%20MainPage.png)
 
 ## Objective
 
