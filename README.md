@@ -6,7 +6,7 @@
 
 To explore and master the Flutter framework, I developed this project: a Body Mass Index (BMI) Calculator. This project allowed me to deepen my understanding of Flutter and improve my skills in designing beautiful and functional user interfaces with custom widgets.
 
-## What You Will Create
+## What I've Created
 
 In this project, I created a simple yet elegant BMI Calculator app, where users can input their details to calculate their BMI. The app features a multi-screen design with a focus on custom styling for a smooth user experience.
 
