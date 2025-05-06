@@ -148,7 +148,7 @@ class _InputPageState extends State<InputPage> {
                     Cardchild: Column(
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
-                        Text("WEIGHT", style: kLabelTextStyle),
+                        Text("WEIGHT (kg)", style: kLabelTextStyle),
                         Text(weight.toString(), style: kNumStyle),
                         Row(
                           mainAxisAlignment: MainAxisAlignment.center,
